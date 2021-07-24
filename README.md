@@ -8,3 +8,10 @@
 - Bootstrap Icon CDN
 
 > Clone and Start Coding :)
+
+## Links
+
+**Bootstrap**
+- https://getbootstrap.com/docs/5.0/getting-started/download/
+**Bootstrap Icon**
+- https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css
